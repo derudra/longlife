@@ -2,7 +2,7 @@ body {
   font-family: Jost;
 }
 .display-1 {
-  font-family: 'Libre Baskerville', serif;
+  font-family: 'Jost', sans-serif;
   font-size: 4.6rem;
   line-height: 1.1;
 }
@@ -1886,11 +1886,11 @@ a {
   background-color: #ffebcd;
 }
 .cid-s48vrXhP0J .mbr-section-title {
-  text-align: left;
+  text-align: center;
   color: #713800;
 }
 .cid-s48vrXhP0J .mbr-section-subtitle {
-  text-align: left;
+  text-align: center;
   color: #645045;
 }
 .cid-sN1FohLV32 {
